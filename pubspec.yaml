@@ -1,0 +1,17 @@
+name: booking_range_slider
+description: A Flutter package which allows you to easily select booking/reservation ranges.
+homepage: https://github.com/mzdm/booking_range_slider
+version: 0.0.1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  pedantic: ^1.10.0
