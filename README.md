@@ -4,6 +4,8 @@
 
 A Flutter package which allows you to easily select booking/reservation ranges.
 
+![image](https://user-images.githubusercontent.com/67197047/109987056-951e5180-7d06-11eb-88ae-c697c8c68ada.png)
+
 **Version has not reached 1.0.0. Bugs may be present or breaking changes might be introduced.**
 
 ## Usage
